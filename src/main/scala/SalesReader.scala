@@ -1,4 +1,12 @@
 
+
+
+
+dsddd
+
+
+
+
 trait SalesReader {
 
   def readSales(): Seq[Sale]
